@@ -1,3 +1,9 @@
+# 刻在DNA中的DTPC.gif
+
+![DTPC](DTPC.gif)
+ - 抖动是录像软件的锅，并非渲染问题
+ - 项目的重点是库，不是渲染
+
 # What is it?
 
 A modern Tetris (pure) C language library, including
